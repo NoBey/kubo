@@ -5,3 +5,4 @@ tar xvfz go-ipfs_v0.4.18_linux-amd64.tar.gz
 cd go-ipfs
 sudo ./install.sh
 ipfs --version
+ipfs init
